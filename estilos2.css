@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+p{
+    display: inline-block;
+    vertical-align: top;
+    font-family: sans-serif;
+    font-size: medium;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+    align-content: center;
+}
+img{
+display: block;
+margin: 0px auto;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: solid;
+}
